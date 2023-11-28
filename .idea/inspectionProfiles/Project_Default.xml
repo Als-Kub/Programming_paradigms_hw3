@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test_task_1.HW_tasks" />
+          <option value="test_task_1.Tasks" />
+          <option value="test_task_2.Tasks" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
